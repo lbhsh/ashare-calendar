@@ -1,9 +1,7 @@
-name: Update East Money calendar ICS
+name: Update East Money calendar ICS (legacy)
 
 on:
-  schedule:
-    # 01:00 UTC = 09:00 Asia/Shanghai (after WSCN job)
-    - cron: "0 1 * * *"
+  # Schedule disabled — too noisy for daily use. Prefer ashare_important.ics.
   workflow_dispatch:
 
 permissions:
@@ -32,6 +30,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to eastmoney_calendar.ics"
           else
-            git commit -m "chore: refresh eastmoney_calendar.ics from East Money dstx API"
+            git commit -m "chore: refresh eastmoney_calendar.ics from East Money dstx API (legacy)"
             git push
           fi

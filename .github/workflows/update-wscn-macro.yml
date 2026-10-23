@@ -1,9 +1,7 @@
-name: Update WSCN macro ICS
+name: Update WSCN macro ICS (legacy)
 
 on:
-  schedule:
-    # 00:30 UTC = 08:30 Asia/Shanghai
-    - cron: "30 0 * * *"
+  # Schedule disabled — too noisy for daily use. Prefer ashare_important.ics.
   workflow_dispatch:
 
 permissions:
@@ -32,6 +30,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to wscn_macro.ics"
           else
-            git commit -m "chore: refresh wscn_macro.ics from Wall Street CN API"
+            git commit -m "chore: refresh wscn_macro.ics from Wall Street CN API (legacy)"
             git push
           fi
