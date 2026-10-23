@@ -1,0 +1,297 @@
+{
+  "calendar_name": "A股金融节点",
+  "timezone": "Asia/Shanghai",
+  "events": [
+    {
+      "id": "msci-2026-02-announce",
+      "date": "2026-02-10",
+      "title": "[调仓] MSCI 2月季度审议公布",
+      "category": "调仓",
+      "description": "MSCI February 2026 Index Review 结果公布日。生效约在月底收盘后。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2026-02-effective",
+      "date": "2026-03-01",
+      "title": "[调仓] MSCI 2月审议生效",
+      "category": "调仓",
+      "description": "MSCI February 2026 Index Review 生效（按收盘实施，通常前一交易日收盘后）。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2026-05-announce",
+      "date": "2026-05-12",
+      "title": "[调仓] MSCI 5月半年度审议公布",
+      "category": "调仓",
+      "description": "MSCI May 2026 Index Review（半年度）结果公布。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2026-05-effective",
+      "date": "2026-05-29",
+      "title": "[调仓] MSCI 5月审议生效",
+      "category": "调仓",
+      "description": "MSCI May 2026 Index Review 生效窗口（官方 effective 常标为月底收盘/次月初）。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2026-08-announce",
+      "date": "2026-08-12",
+      "title": "[调仓] MSCI 8月季度审议公布",
+      "category": "调仓",
+      "description": "MSCI August 2026 Index Review 结果公布。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2026-08-effective",
+      "date": "2026-09-01",
+      "title": "[调仓] MSCI 8月审议生效",
+      "category": "调仓",
+      "description": "MSCI August 2026 Index Review 生效。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2026-11-announce",
+      "date": "2026-11-11",
+      "title": "[调仓] MSCI 11月半年度审议公布",
+      "category": "调仓",
+      "description": "MSCI November 2026 Index Review（半年度）公布日。来源：MSCI 官方下一轮八次审议日程。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2026-11-effective",
+      "date": "2026-12-01",
+      "title": "[调仓] MSCI 11月审议生效",
+      "category": "调仓",
+      "description": "MSCI November 2026 Index Review 生效日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-02-announce",
+      "date": "2027-02-09",
+      "title": "[调仓] MSCI 2月季度审议公布",
+      "category": "调仓",
+      "description": "MSCI February 2027 Index Review 公布日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-02-effective",
+      "date": "2027-03-01",
+      "title": "[调仓] MSCI 2月审议生效",
+      "category": "调仓",
+      "description": "MSCI February 2027 Index Review 生效。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-05-announce",
+      "date": "2027-05-10",
+      "title": "[调仓] MSCI 5月半年度审议公布",
+      "category": "调仓",
+      "description": "MSCI May 2027 Index Review 公布日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-05-effective",
+      "date": "2027-05-28",
+      "title": "[调仓] MSCI 5月审议生效",
+      "category": "调仓",
+      "description": "MSCI May 2027 Index Review 生效。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-08-announce",
+      "date": "2027-08-12",
+      "title": "[调仓] MSCI 8月季度审议公布",
+      "category": "调仓",
+      "description": "MSCI August 2027 Index Review 公布日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-08-effective",
+      "date": "2027-09-01",
+      "title": "[调仓] MSCI 8月审议生效",
+      "category": "调仓",
+      "description": "MSCI August 2027 Index Review 生效。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-11-announce",
+      "date": "2027-11-11",
+      "title": "[调仓] MSCI 11月半年度审议公布",
+      "category": "调仓",
+      "description": "MSCI November 2027 Index Review 公布日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "msci-2027-11-effective",
+      "date": "2027-12-01",
+      "title": "[调仓] MSCI 11月审议生效",
+      "category": "调仓",
+      "description": "MSCI November 2027 Index Review 生效。",
+      "status": "confirmed"
+    },
+
+    {
+      "id": "csi-2026-06",
+      "date": "2026-06-12",
+      "title": "[调仓] 中证指数半年度调仓生效",
+      "category": "调仓",
+      "description": "沪深300/中证500/中证1000/中证A500/上证50/科创50等样本调整于收市后生效（已公告）。",
+      "status": "confirmed"
+    },
+    {
+      "id": "csi-2026-12",
+      "date": "2026-12-11",
+      "title": "[调仓] 中证指数半年度调仓生效（待公告）",
+      "category": "调仓",
+      "description": "按规则原则：每年6/12月第二个星期五收市后生效。确切日期以中证指数公司公告为准。",
+      "status": "tentative"
+    },
+    {
+      "id": "csi-2027-06",
+      "date": "2027-06-11",
+      "title": "[调仓] 中证指数半年度调仓生效（待公告）",
+      "category": "调仓",
+      "description": "按规则原则：6月第二个星期五收市后。确切日期以中证公告为准。",
+      "status": "tentative"
+    },
+    {
+      "id": "csi-2027-12",
+      "date": "2027-12-10",
+      "title": "[调仓] 中证指数半年度调仓生效（待公告）",
+      "category": "调仓",
+      "description": "按规则原则：12月第二个星期五收市后。确切日期以中证公告为准。",
+      "status": "tentative"
+    },
+
+    {
+      "id": "lianghui-2026-cppcc",
+      "date": "2026-03-04",
+      "title": "[两会] 全国政协十四届四次会议开幕",
+      "category": "两会",
+      "description": "全国政协十四届四次会议开幕。",
+      "status": "confirmed"
+    },
+    {
+      "id": "lianghui-2026-npc-open",
+      "date": "2026-03-05",
+      "title": "[两会] 十四届全国人大四次会议开幕",
+      "category": "两会",
+      "description": "人大开幕，通常含政府工作报告、「十五五」规划纲要审查等。",
+      "status": "confirmed"
+    },
+    {
+      "id": "lianghui-2026-npc-close",
+      "date": "2026-03-12",
+      "title": "[两会] 十四届全国人大四次会议闭幕",
+      "category": "两会",
+      "description": "人大闭幕日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "lianghui-2027-window",
+      "date": "2027-03-05",
+      "title": "[两会] 全国两会窗口（待公告）",
+      "category": "两会",
+      "description": "惯例约3月初；确切开幕日以全国人大常委会决定为准。",
+      "status": "tentative"
+    },
+
+    {
+      "id": "policy-5th-plenum-2026-start",
+      "date": "2026-10-26",
+      "title": "[政策] 二十届五中全会召开",
+      "category": "政策",
+      "description": "中共二十届五中全会 10月26日至29日在北京召开（政治局已决定）。",
+      "status": "confirmed"
+    },
+    {
+      "id": "policy-5th-plenum-2026-end",
+      "date": "2026-10-29",
+      "title": "[政策] 二十届五中全会闭幕",
+      "category": "政策",
+      "description": "二十届五中全会闭幕日。",
+      "status": "confirmed"
+    },
+
+    {
+      "id": "earnings-2026-annual-q1",
+      "date": "2026-04-30",
+      "title": "[财报] 年报/一季报披露截止",
+      "category": "财报",
+      "description": "A股上市公司年度报告与一季度报告法定披露截止日（4月30日）。",
+      "status": "confirmed"
+    },
+    {
+      "id": "earnings-2026-interim",
+      "date": "2026-08-31",
+      "title": "[财报] 半年报披露截止",
+      "category": "财报",
+      "description": "A股半年度报告法定披露截止日（8月31日）。",
+      "status": "confirmed"
+    },
+    {
+      "id": "earnings-2026-q3",
+      "date": "2026-10-31",
+      "title": "[财报] 三季报披露截止",
+      "category": "财报",
+      "description": "A股三季度报告法定披露截止日（10月31日）。",
+      "status": "confirmed"
+    },
+    {
+      "id": "earnings-2027-annual-q1",
+      "date": "2027-04-30",
+      "title": "[财报] 年报/一季报披露截止",
+      "category": "财报",
+      "description": "A股年报与一季报披露截止日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "earnings-2027-interim",
+      "date": "2027-08-31",
+      "title": "[财报] 半年报披露截止",
+      "category": "财报",
+      "description": "A股半年报披露截止日。",
+      "status": "confirmed"
+    },
+    {
+      "id": "earnings-2027-q3",
+      "date": "2027-10-31",
+      "title": "[财报] 三季报披露截止",
+      "category": "财报",
+      "description": "A股三季报披露截止日。",
+      "status": "confirmed"
+    },
+
+    {
+      "id": "index-opt-2026-06-override",
+      "date": "2026-06-22",
+      "title": "[交割] 股指期权/期货交割日",
+      "category": "交割",
+      "description": "中金所 IO/HO/MO 等：惯例为当月第三个星期五；2026-06 因端午休市顺延至 6/22。",
+      "status": "confirmed",
+      "overrides_generated": "index_opt:2026-06"
+    }
+  ],
+  "generators": {
+    "etf_option_expiry": {
+      "enabled": true,
+      "years": [2026, 2027],
+      "weekday": "wednesday",
+      "nth": 4,
+      "title": "[交割] ETF期权到期/行权日",
+      "description": "上交所/深交所 ETF 期权：到期月份第四个星期三（遇法定节假日顺延）。含50/300/500/科创50等。",
+      "id_prefix": "etf-opt"
+    },
+    "index_option_expiry": {
+      "enabled": true,
+      "years": [2026, 2027],
+      "weekday": "friday",
+      "nth": 3,
+      "title": "[交割] 股指期权/期货交割日",
+      "description": "中金所股指期货/期权：合约到期月第三个星期五（遇法定节假日顺延至下一交易日）。",
+      "id_prefix": "index-opt",
+      "skip_keys": ["2026-06"]
+    }
+  }
+}
